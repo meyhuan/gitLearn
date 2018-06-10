@@ -1,3 +1,3 @@
 public void main(){
-    print("test test3 test");
+    print("test test2 test");
 }
